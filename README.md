@@ -145,8 +145,7 @@ Windows 11 segítségével.
 
 ⚙️ Példa Install-Apps.ps1 szkript
 powershell
-Másolás
-Szerkesztés
+
 # 🚀 Példa alkalmazás telepítések winget segítségével
 
 Write-Output "📥 Telepítés elkezdődött..."
