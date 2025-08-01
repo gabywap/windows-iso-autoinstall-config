@@ -384,8 +384,7 @@ windows-iso-autoinstall/
 ▶️ Elindítja a C:\Setup\FirstLogon.ps1 scriptet:
 
 batch
-Másolás
-Szerkesztés
+
 @echo off
 powershell.exe -ExecutionPolicy Bypass -File "%SystemDrive%\Setup\FirstLogon.ps1"
 exit
@@ -439,8 +438,7 @@ A szkript csendes módban telepíti az alkalmazásokat, így a telepítési abla
 A szkript futtatásához Windows rendszeren PowerShell-ben adminisztrátori jogosultság szükséges, és a winget csomagkezelőnek elérhetőnek kell lennie.
 
 powershell
-Másolás
-Szerkesztés
+
 powershell.exe -ExecutionPolicy Bypass -File .\Install-Apps.ps1
 
 💡 Használat
