@@ -1,4 +1,5 @@
-﻿🪟 Windows 11 automatikus telepítés manuális partícionálással, helyi fiókkal Microsoft-fiók nélkül
+﻿🪟 Windows 11 automatikus telepítés manuális partícionálással, helyi 
+ fiókkal Microsoft-fiók nélkül
 Ez a repository egy automatikus Windows 11 telepítéshez használható autounattend.xml fájlt és PowerShell szkripteket tartalmaz, amelyekkel a telepítés teljesen automatizált, magyar nyelvű, és helyi fiókot hoz létre Microsoft-fiók nélkül.
 
 🚀 Főbb funkciók
@@ -6,7 +7,7 @@ Ez a repository egy automatikus Windows 11 telepítéshez használható autounat
 
 🔓 TPM, Secure Boot és egyéb hardverkövetelmények megkerülése (pl. régebbi gépeken is működik)
 
-💽 Manuális partícionálás helyett automatikus partíciószerkezet létrehozása
+💽 Manuális partícionálás létrehozása
 
 👤 Helyi felhasználói fiók létrehozása jelszóval, Microsoft-fiók nélkül
 
